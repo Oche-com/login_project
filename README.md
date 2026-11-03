@@ -1,7 +1,15 @@
-# login_project
 # Login Project
 
-A Flutter Login and Signup Application.
+A Flutter login and signup app.
+
+## Preview
+
+![Login Page](screenshots/login.png)
+
+<p float="left">
+  <img src="screenshots/login.png" width="300" />
+  <img src="screenshots/signup.png" width="300" />
+</p>
 
 ## Features
 - User Login

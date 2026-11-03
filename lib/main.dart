@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 
 const Color ash = Color(0xFFE8E8E8);
@@ -54,10 +53,10 @@ class LoginPage extends StatelessWidget {
             ),
             child: Column(
               children: [
-                const Icon(
-                  Icons.lock_outline,
-                  size: 75,
-                  color: red,
+                Image.asset(
+                  'assets/images/logo.png',
+                  height: 130,
+                  fit: BoxFit.contain,
                 ),
                 const SizedBox(height: 20),
 
@@ -204,10 +203,10 @@ class SignupPage extends StatelessWidget {
 
             child: Column(
               children: [
-                const Icon(
-                  Icons.person_add_alt_1,
-                  color: red,
-                  size: 75,
+                Image.asset(
+                  'assets/images/logo.png',
+                  height: 130,
+                  fit: BoxFit.contain,
                 ),
 
                 const SizedBox(height: 20),
