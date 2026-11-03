@@ -4,7 +4,7 @@ A Flutter login and signup app.
 
 ## Preview
 
-![Login Page](screenshots/login.png)
+## Preview
 
 <p float="left">
   <img src="screenshots/login.png" width="300" />
